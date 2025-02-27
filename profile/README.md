@@ -11,7 +11,7 @@
     We're also introducing our own open source watch! Introducing OpenTimeWatch 1 ✨!
 </h1>
 <h4 style="text-align:center;">
-    Schematics will be released on March 2025 at 
+    Schematics will be released on April 2025 at 
     <a href="https://github.com/OpenTimeWatch-Project/OpenTimeWatch-1/tree/main">
        OpenTimeWatch 1 repo.
     </a>
