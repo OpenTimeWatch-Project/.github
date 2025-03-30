@@ -31,4 +31,9 @@
             </a>
         </li>
     </ul>
+    <br>
+    <br>
+    This product is proudly made in India 🇮🇳
 </h3>
+
+
