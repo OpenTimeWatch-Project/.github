@@ -24,11 +24,9 @@ But being open source is just the beginning. The OpenTimeWatch Project aims to d
 
 2. Intrinsically Hackable Design: This is where the real fun begins! The OpenTimeWatch hardware and software are intentionally designed to be hackable. Whether you want to add custom sensors, experiment with new functionalities, or deeply personalize the OS, OpenTimeWatch provides the platform for your creativity to flourish.
 
-3. Modular Design: Imagine a watch where you can easily swap out components, upgrade sensors, or even customize the display. The OpenTimeWatch hardware is designed with modularity in mind, offering unparalleled flexibility.
+3. Extensibility and App Ecosystem: While open source at its core, OpenTimeWatch welcomes innovation in applications. Developers can freely create and share apps, fostering a vibrant and diverse ecosystem tailored to user needs.
 
-4. Extensibility and App Ecosystem: While open source at its core, OpenTimeWatch welcomes innovation in applications. Developers can freely create and share apps, fostering a vibrant and diverse ecosystem tailored to user needs.
-
-5. Emphasis on Sustainability: By promoting repairability and modularity, OpenTimeWatch aims to reduce electronic waste and encourage a more sustainable approach to wearable technology.
+4. Emphasis on Sustainability: By promoting repairability and modularity, OpenTimeWatch aims to reduce electronic waste and encourage a more sustainable approach to wearable technology.
 
 The OpenTimeWatch Project is more than just a smartwatch; it's a movement. It's about putting technology back in the hands of the users, fostering innovation through collaboration, and building a future where wearable technology is open, transparent, and truly serves its purpose – to empower you. Join us on this exciting journey!
 
