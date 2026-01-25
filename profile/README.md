@@ -1,7 +1,7 @@
 # OpenTimeWatch-Project ✨
 
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/188985950?s=400&u=db8ffcf57d93e2f0231639ccdab338dda3999e4a&v=4" alt="logo"/>
+    <img src="logo-transparent-png.png" alt="logo"/>
 </p>
 
 ## Introducing the OpenTimeWatch Project: Your Time, Your Rules
